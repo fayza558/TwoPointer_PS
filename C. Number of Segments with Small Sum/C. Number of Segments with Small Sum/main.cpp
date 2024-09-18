@@ -15,7 +15,7 @@ int main()
     }
     int l=0;
     long long currSum=0;
-    int goodSegments=0;
+    long long  goodSegments=0;
     for(int r=0;r<n;r++)
     {
         currSum+=arr[r];
